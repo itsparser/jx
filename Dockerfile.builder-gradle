@@ -2,3 +2,5 @@
 FROM gcr.io/jenkinsxio/builder-gradle:latest
 
 COPY build/linux/jx /usr/bin/jx
+
+sdfsdf
